@@ -1,6 +1,6 @@
 body {
   background-color: #E2DED0;
-  margin: 20% 30%; 
+  margin: 10% 20%; 
 }
 
 h1{
@@ -8,9 +8,7 @@ h1{
   font-size: 40px;
   font-family: Helvetica ; 
   border-style: groove;
-  text-align: center; 
-  
-  
+  text-align: center;   
 }
 img{
   width:
